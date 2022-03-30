@@ -3,6 +3,7 @@ content_type: resource
 description: "Photos from Technology Testbeds throughout MIT.\r\n"
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/mas-966-digital-anthropology-spring-2003/67fae20f35fd31aa39edec4e02fd7d25_examplesatmit.pdf
 file_type: application/pdf
+parent_uid: 8c3dc399-0691-2c64-9c95-63e2d6581983
 resourcetype: Document
 title: Technology Testbeds at MIT
 uid: 67fae20f-35fd-31aa-39ed-ec4e02fd7d25
